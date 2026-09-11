@@ -1,4 +1,4 @@
-;; test/rm_test.cljs -- build the command and compare it with /bin/rm on
+;; test/rm_test.cljk -- build the command and compare it with /bin/rm on
 ;; stdout, stderr, exit status AND the resulting directory tree.
 ;;
 ;; mkdir writes nothing to stdout when it succeeds, so an output-only
